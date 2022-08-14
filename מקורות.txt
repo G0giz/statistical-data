@@ -1,0 +1,3 @@
+https://www.plus2net.com/python/tkinter-mysql.php - לטבלה בחלון נפרד
+https://www.geeksforgeeks.org/how-to-make-a-table-in-python/ - לטבלה בטרמינל
+https://www.w3schools.com/python/matplotlib_bars.asp - גרף
